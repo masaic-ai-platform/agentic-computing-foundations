@@ -12,9 +12,12 @@ This repository defines the core foundations for building reliable, composable, 
 
 ## 🧱 Overview
 
-As software engineers, researchers, and builders at the forefront of AI systems, we believe agentic computing requires a **clear and principled foundation** , much like the Actor Model shaped concurrent computing.
+As software engineers, researchers, and builders at the forefront of AI systems, we believe agentic computing requires a **clear and principled foundation** .
 
-This repository defines a **Agentic Computing Model (RACM)**:  
+Much like the Actor Model shaped concurrency, the Unix process model enabled composability, and SOA, microservices, and functional programming brought modularity and abstraction  we believe agentic computing now demands its own foundational constructs.
+
+
+This repository defines a **Agentic Computing Model (ACM)**:  
 - A **living specification** for the design of resilient AI agents.  
 - A **mapping of abstract principles** to real implementation techniques.  
 - A **platform for experimentation, refinement, and community contribution**.
